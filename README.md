@@ -8,8 +8,8 @@
 # 📊 GitHub Stats:
 ![](https://github-contributor-stats.vercel.app/api?username=thiagodeev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![]([https://github-readme-stats.vercel.app/api?username=thiagodeev&theme=dark&hide_border=false&include_all_commits=true&count_private=true])
-![](https://camo.githubusercontent.com/5f83d6b3dbab12031c1a7d1b8c54ab88cadd96d2c898d3aa4028f9dc3dc7f759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74686961676f64656576267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)
-<!--![](https://github-readme-stats.vercel.app/api?username=thiagodeev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
+<!-- ![](https://camo.githubusercontent.com/5f83d6b3dbab12031c1a7d1b8c54ab88cadd96d2c898d3aa4028f9dc3dc7f759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74686961676f64656576267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)  -->
+![](https://github-readme-stats.vercel.app/api?username=thiagodeev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodeev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
